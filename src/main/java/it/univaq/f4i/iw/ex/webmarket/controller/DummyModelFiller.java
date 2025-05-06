@@ -10,10 +10,7 @@ import java.util.Map;
 import javax.servlet.ServletContext;
 import javax.servlet.http.HttpServletRequest;
 
-/**
- *
- * @author jessviozzi
- */
+
 public class DummyModelFiller implements DataModelFiller {
 
     @Override

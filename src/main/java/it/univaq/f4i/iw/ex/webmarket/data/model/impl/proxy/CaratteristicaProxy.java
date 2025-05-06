@@ -9,10 +9,7 @@ import it.univaq.f4i.iw.ex.webmarket.data.model.impl.CaratteristicaImpl;
 import it.univaq.f4i.iw.framework.data.DataItemProxy;
 import it.univaq.f4i.iw.framework.data.DataLayer;
 
-/**
- *
- * @author jessviozzi
- */
+
 public class CaratteristicaProxy extends CaratteristicaImpl implements DataItemProxy{
     
     protected boolean modified;

@@ -15,10 +15,7 @@ import java.sql.SQLException;
 
 import java.sql.Statement;
 
-/**
- *
- * @author Giuseppe Della Penna, Giulia Di Flamminio & Samanta Di Stefano
- */
+
 
 //to do --> modifica store utente
 public class UtenteDAO_MySQL extends DAO implements UtenteDAO {
