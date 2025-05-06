@@ -24,6 +24,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
+ * @author Giuseppe Della Penna
  */
 public class FailureResult {
 

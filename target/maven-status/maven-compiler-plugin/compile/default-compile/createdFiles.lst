@@ -37,6 +37,7 @@ it/univaq/f4i/iw/ex/webmarket/data/model/impl/proxy/CategoriaProxy.class
 it/univaq/f4i/iw/framework/data/DataItemImpl.class
 it/univaq/f4i/iw/ex/webmarket/data/dao/UtenteDAO.class
 it/univaq/f4i/iw/ex/webmarket/data/model/CaratteristicaRichiesta.class
+it/univaq/f4i/iw/ex/webmarket/data/dao/impl/CaratteristicaRichiestaDAO_MySQL.class
 it/univaq/f4i/iw/ex/webmarket/data/model/impl/StatoOrdine.class
 it/univaq/f4i/iw/ex/webmarket/controller/Login.class
 it/univaq/f4i/iw/ex/webmarket/data/model/impl/StatoRichiesta.class
@@ -46,13 +47,17 @@ it/univaq/f4i/iw/framework/data/DataItemProxy.class
 it/univaq/f4i/iw/framework/data/DAO.class
 it/univaq/f4i/iw/framework/result/DataModelFiller.class
 it/univaq/f4i/iw/framework/data/DataItem.class
+it/univaq/f4i/iw/ex/webmarket/controller/Login$1.class
 it/univaq/f4i/iw/ex/webmarket/data/model/impl/proxy/RichiestaOrdineProxy.class
 it/univaq/f4i/iw/ex/webmarket/data/model/Caratteristica.class
 it/univaq/f4i/iw/ex/webmarket/data/model/impl/proxy/CaratteristicaProxy.class
+it/univaq/f4i/iw/ex/webmarket/controller/AdminHomepage.class
 it/univaq/f4i/iw/ex/webmarket/data/dao/impl/OrdineDAO_MySQL.class
 it/univaq/f4i/iw/ex/webmarket/data/model/impl/RichiestaOrdineImpl.class
 it/univaq/f4i/iw/framework/data/OptimisticLockException.class
+it/univaq/f4i/iw/ex/webmarket/controller/TecnicoHomepage.class
 it/univaq/f4i/iw/ex/webmarket/data/model/impl/CaratteristicaImpl.class
+it/univaq/f4i/iw/ex/webmarket/data/model/impl/proxy/CaratteristicaRichiestaProxy.class
 it/univaq/f4i/iw/ex/webmarket/data/dao/impl/CaratteristicaDAO_MySQL.class
 it/univaq/f4i/iw/ex/webmarket/data/model/impl/proxy/UtenteProxy.class
 it/univaq/f4i/iw/ex/webmarket/data/model/impl/proxy/OrdineProxy.class

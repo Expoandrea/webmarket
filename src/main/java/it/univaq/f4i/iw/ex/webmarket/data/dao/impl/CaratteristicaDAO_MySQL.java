@@ -64,14 +64,17 @@ public class CaratteristicaDAO_MySQL extends DAO implements CaratteristicaDAO{
     public Caratteristica createCaratteristica() {
          throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     
+        // return new CaratteristicaProxy(getDataLayer()); //TODO: errore: The constructor CaratteristicaProxy(DataLayer) is undefinedJava(134217858)
 
     }
 
+    @SuppressWarnings("unused")
     private CaratteristicaProxy createCaratteristica(ResultSet rs) throws DataException {
         try {
             CaratteristicaProxy c = (CaratteristicaProxy) createCaratteristica();
             //c.setKey(rs.getInt("ID"));
             c.setNome(rs.getString("nome"));
+            //  c.setCategoriaId(rs.getInt("categoria_id")); //TODO: mi da l'errore:The method setCategoriaId(int) is undefined for the type CaratteristicaProxyJava(67108964)
             return c;
         } catch (SQLException ex) {
             throw new DataException("Unable to create caratteristica object from ResultSet", ex);

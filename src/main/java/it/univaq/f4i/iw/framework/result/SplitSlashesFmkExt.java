@@ -15,6 +15,7 @@ import java.util.List;
 
 /**
  *
+ * @author Giuseppe Della Penna
  */
 public class SplitSlashesFmkExt implements TemplateMethodModelEx {
 

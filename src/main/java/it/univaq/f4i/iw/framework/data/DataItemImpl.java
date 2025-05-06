@@ -2,6 +2,7 @@ package it.univaq.f4i.iw.framework.data;
 
 /**
  *
+ * @author giuse
  * @param <KT> the key type
  */
 public class DataItemImpl<KT> implements DataItem<KT> {
