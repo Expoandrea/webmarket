@@ -16,7 +16,6 @@ import it.univaq.f4i.iw.framework.data.DataLayer;
 
 /**
  *
- * @author Giulia Di Flamminio
  */
 
 public class CategoriaDAO_MySQL extends DAO implements CategoriaDAO {

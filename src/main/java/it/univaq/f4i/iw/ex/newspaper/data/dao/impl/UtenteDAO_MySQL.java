@@ -16,7 +16,6 @@ import java.sql.Statement;
 
 /**
  *
- * @author Giuseppe Della Penna, Giulia Di Flamminio & Samanta Di Stefano
  */
 public class UtenteDAO_MySQL extends DAO implements UtenteDAO {
 

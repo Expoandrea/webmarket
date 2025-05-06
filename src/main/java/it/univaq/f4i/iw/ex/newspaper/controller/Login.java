@@ -17,7 +17,6 @@ import javax.servlet.http.*;
 
 /**
  *
- * @author Ingegneria del Web
  * @version
  */
 public class Login extends NewspaperBaseController {

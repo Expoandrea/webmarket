@@ -25,7 +25,6 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  *
- * @author Giuseppe Della Penna
  */
 public interface DataModelFiller {
 

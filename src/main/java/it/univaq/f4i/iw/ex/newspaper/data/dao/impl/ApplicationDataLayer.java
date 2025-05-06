@@ -11,7 +11,6 @@ import javax.sql.DataSource;
 
 /**
  *
- * @author Giuseppe Della Penna
  */
 public class ApplicationDataLayer extends DataLayer {
 

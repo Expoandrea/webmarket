@@ -6,7 +6,6 @@ import it.univaq.f4i.iw.framework.data.DataItemImpl;
 
 /**
  *
- * @author user
  */
 public class CaratteristicaImpl extends DataItemImpl<Integer> implements Caratteristica{
 

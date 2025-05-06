@@ -5,7 +5,6 @@ import java.util.Map;
 
 /**
  *
- * @author Didattica
  */
 public class DataCache {
 
