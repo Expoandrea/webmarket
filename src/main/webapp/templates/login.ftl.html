@@ -1,4 +1,6 @@
-<h1>Site Access</h1>
+<div class="form-card">
+    
+<h1>Login</h1>
 <#if logininfo??>
 <p>Logged in as ${logininfo.username} from address ${logininfo.ip}</p>
 <p><a href="logout">Logout</a></p>
@@ -7,6 +9,7 @@
     <#if (referrer??)>        
     <input name="referrer" type="hidden" value="${referrer}"/>
 </#if> 
+<input type="hidden" name="login" value="true"/>
 <div class="input-group">
     <label for="email" class="form-label">Email</label>
     <input type="email" id="email" name="email" class="form-input" required>
@@ -20,5 +23,6 @@
 </div>
 </form>
 </#if>
+</div>
 
 

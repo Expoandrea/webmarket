@@ -8,6 +8,7 @@ import javax.sql.DataSource;
 
 /**
  *
+ * @author Giuseppe Della Penna
  */
 public class DataLayer implements AutoCloseable {
 
