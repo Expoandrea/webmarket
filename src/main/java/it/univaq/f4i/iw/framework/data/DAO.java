@@ -4,7 +4,6 @@ import java.sql.Connection;
 
 /**
  *
- * @author Giuseppe Della Penna
  */
 public class DAO {
 

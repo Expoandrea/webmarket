@@ -7,7 +7,6 @@ import javax.servlet.http.*;
 
 /**
  *
- * @author Ingegneria del Web
  * @version
  */
 public class Logout extends BaseController {

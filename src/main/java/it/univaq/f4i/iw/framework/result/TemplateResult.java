@@ -44,7 +44,6 @@ import no.api.freemarker.java8.Java8ObjectWrapper;
 
 /**
  *
- * @author Giuseppe Della Penna
  */
 public class TemplateResult {
 

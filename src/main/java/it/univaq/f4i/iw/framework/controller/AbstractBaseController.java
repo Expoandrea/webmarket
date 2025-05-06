@@ -23,7 +23,6 @@ import javax.sql.DataSource;
 
 /**
  *
- * @author Giuseppe Della Penna
  */
 public abstract class AbstractBaseController extends HttpServlet {
 

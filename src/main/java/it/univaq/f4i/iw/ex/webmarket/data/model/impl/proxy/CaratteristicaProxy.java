@@ -11,7 +11,6 @@ import it.univaq.f4i.iw.framework.data.DataLayer;
 
 /**
  *
- * @author jessviozzi
  */
 public class CaratteristicaProxy extends CaratteristicaImpl implements DataItemProxy{
     

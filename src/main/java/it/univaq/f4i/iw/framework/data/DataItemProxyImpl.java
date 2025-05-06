@@ -2,7 +2,6 @@ package it.univaq.f4i.iw.framework.data;
 
 /**
  *
- * @author giuse
  */
 public class DataItemProxyImpl extends DataItemImpl implements DataItemProxy {
 

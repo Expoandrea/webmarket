@@ -2,7 +2,6 @@ package it.univaq.f4i.iw.framework.result;
 
 /**
  *
- * @author Giuseppe Della Penna
  */
 public class TemplateManagerException extends Exception {
 
